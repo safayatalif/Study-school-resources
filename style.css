@@ -24,4 +24,61 @@
 .card img{
     padding: 10px 10px;
 }
+.image1{
+    height: 120px;
+    width: 120px;
+    left: 353px;
+    top: 1787px;
+    border-radius: 0px;
+    margin-right: 20px;
 
+}
+.font{
+    height: 90px;
+    width: 580px;
+    left: 525px;
+    top: 1796px;
+    border-radius: nullpx;
+
+}
+.color-bg1{
+    background-color:#282531;
+}
+.footer1{
+    height: 60px;
+    width: 364px;
+    left: 143px;
+    top: 2068px;
+    border-radius: nullpx;
+
+}
+.footer2{
+    height: 181px;
+    width: 123px;
+    left: 633px;
+    top: 2068px;
+    border-radius: nullpx;
+}
+.footer3{
+    height: 180px;
+    width: 123px;
+    left: 897px;
+    top: 2068px;
+    border-radius: nullpx;
+
+
+}
+.footer4{
+    height: 180px;
+    width: 123px;
+    left: 1181px;
+    top: 2068px;
+    border-radius: nullpx;
+
+}
+.footer1, .footer2, .footer3, .footer4{
+    padding: 10px 10px;
+}
+.R{
+    margin-top: 60px;
+}
