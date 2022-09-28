@@ -1,3 +1,10 @@
 .color-bg{
-    background-color:#41dc41;
+    background-color:#F0FFF0;
+}
+.image{
+    width: 200px;
+    height: 70px;
+}
+.padding{
+    padding: 40px 40px;
 }
