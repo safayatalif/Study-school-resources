@@ -1,3 +1,6 @@
+.container{
+    margin-bottom: 100px;
+}
 .color-bg{
     background-color:#F0FFF0;
 }
@@ -6,7 +9,7 @@
     height: 70px;
 }
 .padding{
-    padding: 40px 40px;
+    padding: 20px 20px;
 }
 .categorise img{
     width: 100px;
